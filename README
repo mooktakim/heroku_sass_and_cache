@@ -15,4 +15,4 @@ Make it work
 Add to config/routes.rb "map.heroku_sass_and_cache"
 
 
-Copyright (c) 2009 [name of plugin creator], released under the MIT license
+Copyright (c) 2009 Mooktakim Ahmed, released under the MIT license
