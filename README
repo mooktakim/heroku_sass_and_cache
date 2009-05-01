@@ -14,5 +14,8 @@ Make it work
 
 Add to config/routes.rb "map.heroku_sass_and_cache"
 
+There is a rake task available to generate the css files:
+RAILS_ENV=production rake heroku_sass_and_cache:generate_style_sheets
+
 
 Copyright (c) 2009 Mooktakim Ahmed, released under the MIT license
